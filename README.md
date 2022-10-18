@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JD-dev227
-- 👀 I’m interested in Web Developeing and maybe 
+- 👀 I’m interested in programming applications, web developeping 
 - 🌱 I’m currently learning software Developemnt at MCAST 
-- 📫 How to reach me jdmc@gmail.com
+- 📫 How to reach me jdmc.buhagiar@gmail.com
 
 <!---
 JD-dev227/JD-dev227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
